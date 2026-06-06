@@ -249,6 +249,15 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) — Low-code multi-agent framework. Define agent roles, tasks, and flows via YAML configuration. Wraps underlying agent frameworks.
 - [Cognee](https://github.com/topoteretes/cognee) — GraphRAG framework for agent knowledge management. Builds interconnected knowledge graphs from unstructured data.
 - [AgentZero](https://github.com/Agentzerodotfun/agent-zero-main) — Self-healing autonomous agent with web UI. Manages own workflows, tool use, and environment. Self-evolving capabilities.
+- [MetaGPT](https://github.com/geekan/MetaGPT) — Multi-agent framework simulating a full software team. Assigns Agent, Product Manager, Engineer roles. Implements SOPs for end-to-end code generation.
+- [ChatDev (OpenBMB)](https://github.com/OpenBMB/ChatDev) — Virtual software company driven by multi-agent collaboration. Follows waterfall model through design, coding, testing, and documentation.
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — The original autonomous agent experiment. Sets its own goals, iterates on tasks, and executes without continuous human input. Web browsing and file management.
+- [Bee Agent Framework (IBM)](https://github.com/i-am-bee/beeai-framework) — Production-ready framework for building reliable AI agents in Python and TypeScript. Modular, with built-in observability and IBM research optimizations.
+- [Eliza (ai16z)](https://github.com/ai16z/eliza) — Multi-platform agent framework for creating character-driven AI agents. Handles social media interaction, complex decision-making, and autonomous behavior across platforms.
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) — Developer-focused autonomous agent platform with GUI. Built-in resource management, file handling, and multi-tasking for running agents at scale.
+- [AgentVerse (OpenBMB)](https://github.com/OpenBMB/AgentVerse) — Framework for building and evaluating multi-agent environments. Easily configure agent teams and measure collaborative performance.
+- [Qwen-Agent (Alibaba)](https://github.com/QwenLM/Qwen-Agent) — Agent framework tightly integrated with the Qwen model family. Optimized for function calling, code execution, RAG, and tool use with Qwen models.
+- [AGiXT](https://github.com/Josh-XT/AGiXT) — Extensible modular AI agent automation platform. Plugin system for swapping LLMs, memory backends, and tools. Highly customizable agent workflows.
 
 ---
 
