@@ -2,13 +2,13 @@
 
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
-![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2012%2C%202026-brightgreen?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2016%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-29-blue?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-156-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
-> ✅ All links verified live on June 12, 2026. 6 broken links found and fixed during this check.
+> ✅ All links verified live on June 16, 2026. 4 broken links found and fixed during this check.
 
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
@@ -36,7 +36,7 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 
 ## 🧠 Open-Weight Models
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Notable open-weight models you can download and run on your own hardware.
 
@@ -67,7 +67,7 @@ Notable open-weight models you can download and run on your own hardware.
 
 ## 🔌 Free API Providers
 
-> 📅 Last checked: June 12, 2026
+> 📅 Last checked: June 16, 2026
 
 Providers offering free tiers to access models via API — no local hardware required.
 
@@ -111,7 +111,7 @@ Providers offering free tiers to access models via API — no local hardware req
 
 ## 💻 Local Inference Tools
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Run models on your own machine — no API keys needed, full privacy.
 
@@ -146,7 +146,7 @@ Run models on your own machine — no API keys needed, full privacy.
 
 ## 💬 AI Chatbot UIs
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Free, open-source web interfaces for chatting with AI models — self-host or use hosted versions.
 
@@ -164,7 +164,7 @@ Free, open-source web interfaces for chatting with AI models — self-host or us
 
 ## 🤖 AI Coding Assistants
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Free tools that integrate AI into your development workflow.
 
@@ -193,7 +193,7 @@ Free tools that integrate AI into your development workflow.
 
 ## 📝 Code Models
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Specialized for code generation, completion, and analysis.
 
@@ -202,7 +202,7 @@ Specialized for code generation, completion, and analysis.
 | [MAI-Code-1-Flash (Microsoft)](https://huggingface.co/microsoft) | **Jun 2026.** Microsoft's open-weight coding model for lowering infrastructure costs. |
 | [DeepSeek Coder](https://huggingface.co/deepseek-ai) | State-of-the-art open-weight code generation. DeepSeek's coder series leads SWE-bench. MIT license. |
 | [Qwen2.5-Coder (Alibaba)](https://huggingface.co/collections/Qwen/qwen25-coder) | Highly capable code model series (1.5B–32B). Excellent balance of speed and quality. Apache 2.0. |
-| [Codestral (Mistral)](https://huggingface.co/mistralai/Codestral-22B-v0.1) | Mistral's dedicated code generation model — fill-in-the-middle, completion, and instruction. [GitHub](https://github.com/mistralai/codestral) |
+| [Codestral (Mistral)](https://huggingface.co/mistralai/Codestral-22B-v0.1) | Mistral's dedicated code generation model — fill-in-the-middle, completion, and instruction. |
 | [CodeGemma (Google)](https://huggingface.co/google/codegemma-7b) | Google's Gemma architecture fine-tuned for code completion and instruction. Apache 2.0. |
 | [StarCoder2 (BigCode)](https://huggingface.co/bigcode/starcoder2-15b) | Transparently trained code model covering 619 languages. OpenRAIL-M license. |
 | [Yi-Coder (01.AI)](https://huggingface.co/01-ai/Yi-Coder-9B-Chat) | Efficient coding model with strong long-context understanding. Yi License (Apache 2.0 compatible). |
@@ -221,7 +221,7 @@ Specialized for code generation, completion, and analysis.
 
 ## 🔍 RAG & Vector Databases
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Free tools for building retrieval-augmented generation pipelines — vector storage, embedding search, and document retrieval.
 
@@ -246,7 +246,7 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 
 ## 🧩 Agentic Frameworks
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Free, open-source frameworks for building AI agents and multi-agent systems.
 
@@ -255,7 +255,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 | [LangGraph (LangChain)](https://langchain-ai.github.io/langgraph/) | Low-level framework for building stateful, multi-agent applications. [GitHub](https://github.com/langchain-ai/langgraph) |
 | [CrewAI](https://www.crewai.com/) | Multi-agent framework for orchestrating specialized AI agents to work together. [GitHub](https://github.com/crewAIInc/crewAI) |
 | [AutoGen (Microsoft)](https://microsoft.github.io/autogen/) | Extensible framework for building multi-agent conversations. [GitHub](https://github.com/microsoft/autogen) |
-| [Agno (formerly Phidata)](https://www.agno.com/) | Full-stack AI framework for building multimodal agents with memory, knowledge, and tools. [GitHub](https://github.com/agno-org/agno) |
+| [Agno (formerly Phidata)](https://www.agno.com/) | Full-stack AI framework for building multimodal agents with memory, knowledge, and tools. [GitHub](https://github.com/agno-agi/phidata) |
 | [PydanticAI](https://ai.pydantic.dev/) | Agent framework by Pydantic with type-safe outputs and dependency injection. [GitHub](https://github.com/pydantic/pydantic-ai) |
 | [Mastra](https://mastra.ai/) | TypeScript framework for building AI applications and agent workflows. [GitHub](https://github.com/mastra-ai/mastra) |
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | Lightweight SDK for building single and multi-agent systems. [GitHub](https://github.com/openai/openai-agents-python) |
@@ -287,7 +287,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 
 ## 🎛 Fine-tuning Tools
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Tools to fine-tune free models on your own data — all free and open-source.
 
@@ -312,7 +312,7 @@ Tools to fine-tune free models on your own data — all free and open-source.
 
 ## ✨ Prompt Engineering Tools
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Free tools for testing, managing, and optimizing prompts.
 
@@ -334,14 +334,14 @@ Free tools for testing, managing, and optimizing prompts.
 
 ## 📊 Datasets
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Free, open datasets for training, fine-tuning, and evaluating models.
 
 | Name | Description |
 |------|-------------|
 | [Hugging Face Datasets](https://huggingface.co/datasets) | The standard hub for open datasets. 150,000+ datasets across all tasks. |
-| [Common Corpus](https://huggingface.co/datasets/common-catalog) | Massive open-source dataset for training large language models. |
+| [Common Corpus](https://huggingface.co/datasets/PleIAs/common_corpus) | Massive open-source dataset for training large language models. |
 | [The Stack v2 (BigCode)](https://huggingface.co/datasets/bigcode/the-stack-v2) | Large-scale code dataset covering 619 programming languages. Permissive license. |
 | [FineWeb (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | High-quality web dataset for LLM pre-training. 15T tokens. |
 | [Dolly (Databricks)](https://huggingface.co/datasets/databricks/databricks-dolly-15k) | 15k instruction-response pairs for fine-tuning. CC-BY-SA. |
@@ -349,14 +349,14 @@ Free, open datasets for training, fine-tuning, and evaluating models.
 | [ShareGPT (RyokoAI)](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) | Real user-ChatGPT conversations for fine-tuning. |
 | [UltraChat (Sean C.)](https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k) | 200k multi-turn conversations synthesized by ChatGPT. |
 | [No Robots (Hugging Face)](https://huggingface.co/datasets/HuggingFaceH4/no_robots) | 10k high-quality human-written instructions. Apache 2.0. |
-| [RLAIF-V (OpenBMB)](https://huggingface.co/datasets/openbmb/RLAIF-V) | AI-generated preference data for RLHF. Apache 2.0. |
+| [RLAIF-V (OpenBMB)](https://huggingface.co/datasets/openbmb/RLAIF-V-Dataset) | AI-generated preference data for RLHF. Apache 2.0. |
 | [MMLU / GSM8K](https://huggingface.co/datasets) | Standard benchmarks for evaluation. |
 
 ---
 
 ## ☁ Model Hosting Platforms
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Free platforms that host models — run inference without downloading anything.
 
@@ -378,7 +378,7 @@ Free platforms that host models — run inference without downloading anything.
 
 ## 📚 Learning Resources
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 Free courses, books, and tutorials for learning AI and LLMs.
 
@@ -399,7 +399,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 🏆 Resources & Leaderboards
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 | Name | Description |
 |------|-------------|
@@ -417,7 +417,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 👥 Communities
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 16, 2026
 
 | Name | Description |
 |------|-------------|
