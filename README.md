@@ -183,6 +183,7 @@ General-purpose terminal-based AI tools — chat, summarization, file operations
 | [Tuillem](https://github.com/seesee/tuillem) | 3-pane terminal AI chat client. Switch providers and models mid-conversation. Full markdown rendering, SQLite history with full-text search. Plugin system. |
 | [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Nous Research's open-source terminal AI agent. Full TUI with slash commands, 40+ tools, persistent memory. Multi-platform gateway (Telegram, Discord, Slack). Apache 2.0. |
 | [Saarthi](https://github.com/snehangshu2002/saarthi-cli) | LangGraph-powered CLI chatbot with persistent memory, multi-agent delegation, MCP integration, and dynamic skill system. Local-first architecture. |
+| [Freebuff](https://freebuff.com/) | An ai powered cli, supported by ads, with multi-agent ochestration |
 
 ---
 
