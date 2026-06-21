@@ -303,6 +303,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 | [AgentVerse (OpenBMB)](https://github.com/OpenBMB/AgentVerse) | Framework for building and evaluating multi-agent environments. Easily configure agent teams and measure collaborative performance. |
 | [Qwen-Agent (Alibaba)](https://github.com/QwenLM/Qwen-Agent) | Agent framework tightly integrated with the Qwen model family. Optimized for function calling, code execution, RAG, and tool use with Qwen models. |
 | [AGiXT](https://github.com/Josh-XT/AGiXT) | Extensible modular AI agent automation platform. Plugin system for swapping LLMs, memory backends, and tools. Highly customizable agent workflows. |
+| [Deus](https://github.com/sliamh11/Deus) | Self-hosted personal AI assistant framework built around long-term memory, a self-improving evolution loop, and multi-agent orchestration. Backend-neutral (Claude Code, OpenAI/Codex, or fully local Ollama models), container-isolated agents, multi-channel (WhatsApp, Telegram, Slack, Discord, Gmail). MIT. |
 
 ---
 
