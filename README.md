@@ -197,7 +197,7 @@ Free tools that integrate AI into your development workflow.
 |------|-------------|
 | [Continue.dev](https://continue.dev/) | Open-source AI code assistant. Chat, autocomplete, and edit with any model. [GitHub](https://github.com/continuedev/continue) |
 | [Aider](https://aider.chat/) | AI pair programming in the terminal. Edits code in your local git repo. Supports GPT, Claude, and local models. [GitHub](https://github.com/Aider-AI/aider) |
-ki| [Devin Desktop (formerly Windsurf/Codeium)](https://windsurf.com/) | AI code editor with autocomplete, chat, and search. Now by Cognition. Free tier available. Pro $20/mo. |
+| [Devin Desktop (formerly Windsurf/Codeium)](https://windsurf.com/) | AI code editor with autocomplete, chat, and search. Now by Cognition. Free tier available. Pro $20/mo. |
 | [Tabby](https://www.tabbyml.com/) | Self-hosted AI coding assistant with no dependency on external services. [GitHub](https://github.com/TabbyML/tabby) |
 | [Cody (Sourcegraph)](https://sourcegraph.com/docs/cody) | Free tier for individuals. Chat, autocomplete, and commands with codebase context. |
 | [Llama Coder (Nutlope)](https://llamacoder.together.ai/) | Free AI code generation tool. Generate entire apps from prompts. |
